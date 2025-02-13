@@ -1,66 +1,58 @@
-# Emotional-Intellegience-
-
-Here’s a README file for your GitHub repository:
+Here’s a **README.md** file for your GitHub repository:  
 
 ---
 
-# 🧠 Emotional Intelligence Chatbot
+# 🧠 Emotional Intelligence Chatbot  
+An AI-powered chatbot that detects emotions and responds empathetically using **LLaMA 3.2 1B** via **Ollama**. Built with **Streamlit** for an interactive UI.  
 
-A Streamlit-based chatbot that detects emotions and responds empathetically using **LLaMA 3.2 1B** via **Ollama**.
+## 🚀 Features  
 
-## 🚀 Features
+### ✅ **Implemented Features**  
+- **Emotion Detection** – Analyzes user input and determines emotional state (e.g., happy, sad, anxious).  
+- **Empathetic Response Generation** – Provides supportive and human-like responses based on detected emotions.  
+- **Streamlit UI** – Clean and interactive web-based interface for chatting with the AI.  
+- **Text-Based Interaction** – Users can manually enter messages for analysis and response.  
 
-- **Emotion Detection:** Analyzes user input and determines their emotional state.
-- **Empathetic Responses:** Generates human-like responses tailored to the detected emotion.
-- **Streamlit UI:** Simple and interactive user interface.
-- **Memory (Coming Soon):** Chatbot retains context until the conversation ends.
+### 🔜 **Upcoming / Planned Features**  
+- 🎙️ **Voice Input (Speech-to-Text)** – Convert spoken words into text for analysis.  
+- 💬 **Chat Memory (Context Retention)** – Retain conversation history for more contextual responses.  
+- 🔍 **Enhanced Emotion Analysis** – More accurate classification using advanced NLP techniques.  
+- 🤖 **Improved Response Personalization** – Adaptive responses based on conversation history.  
+- 🎛️ **Customizable AI Behavior** – Users can adjust response styles (e.g., professional, casual, supportive).  
 
-## 📌 Installation
+## 🛠 Installation  
 
-### Prerequisites
+### **1. Clone the Repository**  
+```sh
+git clone https://github.com/yourusername/emotional-intelligence-chatbot.git  
+cd emotional-intelligence-chatbot
+```
 
-- Python 3.8+
-- Streamlit
-- Ollama
-- Required dependencies: `pip install -r requirements.txt`
+### **2. Install Dependencies**  
+```sh
+pip install -r requirements.txt
+```
 
-### Setup
+### **3. Run the Chatbot**  
+```sh
+streamlit run app.py
+```
 
-1. Clone the repository:
+## 🏗️ Technologies Used  
+- **Python** – Core programming language  
+- **Streamlit** – Interactive UI for chatbot  
+- **Ollama** – AI model serving for LLaMA  
+- **LLaMA 3.2 1B** – Custom Model for emotion analysis and response generation  
 
-   ```bash
-   git clone https://github.com/yourusername/emotional-intelligence-chatbot.git
-   cd emotional-intelligence-chatbot
-   ```
+## 📌 Usage  
+1. Enter text into the input box and click **"Analyze & Respond"**.  
+2. The AI will detect your emotion and provide a relevant empathetic response.  
+3. (Upcoming) Click the 🎤 **Record Voice** button to speak instead of typing.  
+4. (Upcoming) The chatbot will **remember** past interactions for better context.  
 
-2. Install dependencies:
-
-   ```bash
-   pip install streamlit ollama
-   ```
-
-3. Run the chatbot:
-
-   ```bash
-   streamlit run app.py
-   ```
-
-## 🛠 Usage
-
-1. Enter a message in the text box.
-2. Click **"Analyze & Respond"** to get an empathetic response.
-3. (Upcoming) Use **voice input** to communicate with the chatbot.
-
-## 📌 Upcoming Features
-
-- **Voice Input**: Convert speech to text and analyze emotions.
-- **Chat Memory**: Retain conversation history for context-aware responses.
-- **Improved Emotion Analysis**: More accurate emotion classification.
-
-## 📝 License
-
-This project is licensed under the MIT License.
+## 📜 License  
+This project is open-source under the **MIT License**.  
 
 ---
 
-Let me know if you want any modifications! 🚀
+Would you like any changes or additions? 🚀
