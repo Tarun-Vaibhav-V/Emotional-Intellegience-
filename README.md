@@ -3,7 +3,7 @@ Here’s a **README.md** file for your GitHub repository:
 ---
 
 # 🧠 Emotional Intelligence Chatbot  
-An AI-powered chatbot that detects emotions and responds empathetically using **LLaMA 3.2 1B** via **Ollama**. Built with **Streamlit** for an interactive UI.  
+An AI-powered chatbot that detects emotions and responds empathetically using **Custom built LLaMA 3.2 1B** via **Ollama**. Built with **Streamlit** for an interactive UI.  
 
 ## 🚀 Features  
 
