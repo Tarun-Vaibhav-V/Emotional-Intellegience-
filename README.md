@@ -53,6 +53,9 @@ streamlit run app.py
 ## 📜 License  
 This project is open-source under the **MIT License**.  
 
----
+## NOTE 
+since limited time was given in hackathon
+emp_final runs camera text
+emp4.py runs UI at the cleanest 
 
-Would you like any changes or additions? 🚀
+
