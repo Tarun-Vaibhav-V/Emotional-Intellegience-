@@ -12,8 +12,6 @@ An AI-powered chatbot that detects emotions and responds empathetically using **
 - **Empathetic Response Generation** – Provides supportive and human-like responses based on detected emotions.  
 - **Streamlit UI** – Clean and interactive web-based interface for chatting with the AI.  
 - **Text-Based Interaction** – Users can manually enter messages for analysis and response.  
-
-### 🔜 **Upcoming / Planned Features**  
 - 🎙️ **Voice Input (Speech-to-Text)** – Convert spoken words into text for analysis.  
 - 💬 **Chat Memory (Context Retention)** – Retain conversation history for more contextual responses.  
 - 🔍 **Enhanced Emotion Analysis** – More accurate classification using advanced NLP techniques.  
@@ -47,8 +45,8 @@ streamlit run app.py
 ## 📌 Usage  
 1. Enter text into the input box and click **"Analyze & Respond"**.  
 2. The AI will detect your emotion and provide a relevant empathetic response.  
-3. (Upcoming) Click the 🎤 **Record Voice** button to speak instead of typing.  
-4. (Upcoming) The chatbot will **remember** past interactions for better context.  
+3. Click the 🎤 **Record Voice** button to speak instead of typing.  
+4. he chatbot will **remember** past interactions for better context.  
 
 ## 📜 License  
 This project is open-source under the **MIT License**.  
